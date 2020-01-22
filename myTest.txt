@@ -1,1 +1,3 @@
 Hier steht nur ein Testtext!
+
+git ist wirklich praktisch. MEEEEEEGA
